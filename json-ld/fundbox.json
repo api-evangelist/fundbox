@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://fundbox.com",
+  "name": "Fundbox",
+  "description": "Fundbox is an API-first embedded working capital platform that enables B2B sellers and platforms to offer net payment terms, credit underwriting, and working capital financing. Founded in 2013 and headquartered in Plano, TX, Fundbox has unlocked over $6 billion in capital for more than 170,000 small businesses.",
+  "url": "https://fundbox.com",
+  "foundingDate": "2013",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Plano",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://github.com/fundbox",
+    "https://www.linkedin.com/company/fundbox/",
+    "https://x.com/fundbox"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "support@fundbox.com",
+    "telephone": "+18555727707"
+  },
+  "knowsAbout": [
+    "Embedded Finance",
+    "B2B Credit",
+    "Net Payment Terms",
+    "Working Capital",
+    "Small Business Lending",
+    "Credit Underwriting",
+    "Embedded Lending API"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Fundbox Partner API",
+    "description": "An API stack for platforms to embed white-labeled net payment terms, credit underwriting, and working capital financing directly within their B2B applications.",
+    "url": "https://fundbox.com/partners/"
+  }
+}
