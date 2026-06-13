@@ -1,0 +1,62 @@
+aid: fundbox
+name: Fundbox
+description: Fundbox is an API-first embedded working capital platform that enables B2B sellers and platforms to offer net payment terms, credit underwriting, and working capital financing. Founded in 2013 and headquartered in Plano, TX, Fundbox has unlocked over $6 billion in capital for more than 170,000 small businesses. The platform provides a fully white-labeled, embedded lending API stack that allows B2B platforms to integrate credit decisioning, compliance, and servicing in two weeks or less.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/apis.yml
+created: 2026-06-13
+modified: 2026-06-13
+specificationVersion: '0.19'
+tags:
+  - Fintech
+  - B2B Credit
+  - Embedded Finance
+  - Net Terms
+  - Working Capital
+  - Small Business
+  - Lending
+  - Credit Underwriting
+apis:
+  - aid: fundbox:fundbox-partner-api
+    name: Fundbox Partner API
+    description: The Fundbox Partner API provides an API stack for platforms to embed white-labeled net payment terms, credit underwriting, and working capital financing directly within their B2B applications. The API handles end-to-end embedded lending including credit decisioning, compliance, and loan servicing.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://fundbox.com/partners/
+    baseURL: https://fundbox.com
+    tags:
+      - Embedded Lending
+      - Net Terms
+      - Credit Underwriting
+      - B2B Finance
+    properties:
+      - type: Documentation
+        url: https://fundbox.com/partners/
+      - type: Plans
+        url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/plans/fundbox-plans-pricing.yml
+      - type: RateLimits
+        url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/rate-limits/fundbox-rate-limits.yml
+      - type: FinOps
+        url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/finops/fundbox-finops.yml
+common:
+  - type: Website
+    url: https://fundbox.com
+  - type: Documentation
+    url: https://fundbox.com/partners/
+  - type: GitHubOrg
+    url: https://github.com/fundbox
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fundbox/
+  - type: Blog
+    url: https://fundbox.com/blog/
+  - type: Pricing
+    url: https://fundbox.com/partners/
+  - type: X
+    url: https://x.com/fundbox
+  - type: Plans
+    url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/plans/fundbox-plans-pricing.yml
+  - type: RateLimits
+    url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/rate-limits/fundbox-rate-limits.yml
+  - type: FinOps
+    url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/finops/fundbox-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

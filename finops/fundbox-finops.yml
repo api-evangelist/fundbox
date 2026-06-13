@@ -1,0 +1,23 @@
+name: Fundbox FinOps
+description: Financial operations considerations for integrating with Fundbox's embedded net terms and credit API. Fundbox handles credit risk, compliance, and capital deployment on behalf of platform partners.
+url: https://fundbox.com/partners/
+considerations:
+  - category: Credit Risk
+    description: Fundbox assumes full credit risk for all underwritten transactions. Platform partners are not exposed to loan default risk under the standard embedded lending model.
+  - category: Revenue Model
+    description: Platform partners participate in revenue share arrangements based on origination volume. Specific terms are negotiated as part of the partner agreement.
+  - category: Capital Source
+    description: Fundbox provides the capital for all credit products. Partners do not need to fund credit lines or maintain capital reserves.
+  - category: Compliance
+    description: Fundbox's platform includes bank-grade compliance infrastructure covering KYB, AML, and lending regulations. Partners leverage this compliance layer via API.
+  - category: Accounting Integration
+    description: Fundbox integrates with QuickBooks, Xero, and FreshBooks for underwriting data. This may have implications for data sharing agreements between platform and end customers.
+  - category: Funding Timeline
+    description: Approved businesses receive funds as quickly as next business day. Platform integrations should account for this funding timeline in their UX flows.
+  - category: Fee Structure
+    description: Weekly fees ranging from 4.66% (12-week term) to 8.99% (24-week term) are charged to borrowers. These translate to effective APRs of approximately 35-80%.
+notes:
+  - Total capital unlocked by Fundbox platform exceeds $6 billion as of 2026
+  - Fundbox has served over 170,000 businesses since founding in 2013
+  - Annual origination capacity exceeds $2 billion
+  - Partner API pricing and revenue share details are confidential and disclosed during onboarding

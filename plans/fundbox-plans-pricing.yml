@@ -1,0 +1,37 @@
+name: Fundbox Plans and Pricing
+description: Fundbox offers embedded net payment terms, credit underwriting, and working capital financing for B2B sellers and buyers. Pricing is structured around weekly fees rather than traditional annual interest rates.
+url: https://fundbox.com/partners/
+plans:
+  - name: Business Line of Credit
+    description: Revolving line of credit for small businesses with flexible repayment terms.
+    url: https://fundbox.com/
+    features:
+      - Credit limit up to $250,000
+      - Same-day approval decisions
+      - Next-business-day funding
+      - Flexible 12 or 24-week repayment terms
+      - Revolving credit that replenishes as you repay
+    pricing:
+      - term: 12-week repayment
+        fee: Starting at 4.66% total weekly fee
+      - term: 24-week repayment
+        fee: Starting at 8.99% total weekly fee
+  - name: Embedded Net Terms (Platform Partners)
+    description: White-labeled, API-first embedded capital solution for B2B platforms. Allows platforms to offer net payment terms and credit products to their business customers.
+    url: https://fundbox.com/partners/
+    features:
+      - Fully embedded, white-labeled experience
+      - API stack for end-to-end embedded lending
+      - Net 30 and Net 60 payment terms
+      - Credit decisioning handled by Fundbox
+      - Compliance infrastructure included
+      - Onboarding in 2 weeks or less
+      - Full-stack servicing and collections
+    pricing:
+      - model: Partner revenue share
+        note: Pricing available upon request through partner program
+notes:
+  - Fundbox does not charge traditional interest rates; instead uses weekly fees
+  - Effective APRs can range from approximately 35% to 80% depending on term and credit profile
+  - Platform API access requires partner agreement with Fundbox
+  - Contact support@fundbox.com or (855) 572-7707 for partner pricing

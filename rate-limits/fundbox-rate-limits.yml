@@ -1,0 +1,14 @@
+name: Fundbox Rate Limits
+description: Rate limit details for the Fundbox Partner API. Fundbox's embedded lending API is available to approved platform partners. Specific rate limit thresholds are disclosed during the partner onboarding process.
+url: https://fundbox.com/partners/
+limits:
+  - scope: Partner API
+    note: Rate limits are not publicly documented. Partners receive rate limit specifications as part of the API integration agreement.
+    contact: support@fundbox.com
+  - scope: General Access
+    note: API access requires an approved partner agreement. Self-service developer sandbox access is not publicly available.
+notes:
+  - Fundbox operates a private, partner-only API program
+  - Rate limits, quotas, and throttling policies are provided to partners during onboarding
+  - Platform integrations are onboarded within 2 weeks or less per Fundbox documentation
+  - For rate limit information, contact the Fundbox partner team via fundbox.com/partners/
