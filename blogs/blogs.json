@@ -9,87 +9,156 @@
     {
       "title": "4 Ways to Incorporate Spring In Your Marketing Strategy",
       "url": "https://fundbox.com/blog/4-ways-to-incorporate-spring-in-your-marketing-strategy/",
-      "tags": ["Marketing", "Small Business"]
+      "tags": [
+        "Marketing",
+        "Small Business"
+      ]
     },
     {
       "title": "How to Use Customer Feedback To Grow Your Business",
       "url": "https://fundbox.com/blog/how-to-use-customer-feedback-to-grow-your-business/",
-      "tags": ["Business Growth", "Customer Feedback"]
+      "tags": [
+        "Business Growth",
+        "Customer Feedback"
+      ]
     },
     {
       "title": "4 Tips to Help You Choose an Online Loan Provider",
       "url": "https://fundbox.com/blog/online-loan-lenders/",
-      "tags": ["Loans", "Small Business Finance"]
+      "tags": [
+        "Loans",
+        "Small Business Finance"
+      ]
     },
     {
       "title": "A Mobile App to Boost Cash Flow On-the-Go",
       "url": "https://fundbox.com/blog/mobile-app-boost-cash-flow/",
-      "tags": ["Cash Flow", "Mobile", "Small Business"]
+      "tags": [
+        "Cash Flow",
+        "Mobile",
+        "Small Business"
+      ]
     },
     {
       "title": "Best Business Podcasts for Entrepreneurs",
       "url": "https://fundbox.com/blog/best-podcasts-entrepreneurs/",
-      "tags": ["Entrepreneurship", "Resources"]
+      "tags": [
+        "Entrepreneurship",
+        "Resources"
+      ]
     },
     {
       "title": "7 Ways Mobile Devices Can Help You Be More Productive",
       "url": "https://fundbox.com/blog/7-ways-mobile-devices-help-productive/",
-      "tags": ["Productivity", "Mobile", "Small Business"]
+      "tags": [
+        "Productivity",
+        "Mobile",
+        "Small Business"
+      ]
     },
     {
       "title": "Juneteenth: Why It Should Be Observed in Your Small Business",
       "url": "https://fundbox.com/blog/juneteenth-why-it-should-be-observed-in-your-small-business/",
-      "tags": ["Culture", "Small Business"]
+      "tags": [
+        "Culture",
+        "Small Business"
+      ]
     },
     {
       "title": "7 Lessons and Tips From Successful Women Business Owners",
       "url": "https://fundbox.com/blog/lessons-women-business-owners/",
-      "tags": ["Entrepreneurship", "Women in Business"]
+      "tags": [
+        "Entrepreneurship",
+        "Women in Business"
+      ]
     },
     {
       "title": "8 Ways to Manage Cash Flow in a Seasonal Business",
       "url": "https://fundbox.com/blog/8-ways-to-manage-cash-flow-in-a-seasonal-business/",
-      "tags": ["Cash Flow", "Seasonal Business"]
+      "tags": [
+        "Cash Flow",
+        "Seasonal Business"
+      ]
     },
     {
       "title": "10 Smart Ways to Spend Your Tax Refund and Grow Your Business",
       "url": "https://fundbox.com/blog/10-smart-ways-spend-tax-refund-grow-business/",
-      "tags": ["Tax", "Business Growth", "Finance"]
+      "tags": [
+        "Tax",
+        "Business Growth",
+        "Finance"
+      ]
     },
     {
       "title": "Business Credit Reporting: Everything You Need to Know as a Small Business Owner",
       "url": "https://fundbox.com/blog/business-credit-reporting:-everything-you-need-to-know-as-a-small-business-owner/",
-      "tags": ["Credit", "Small Business Finance"]
+      "tags": [
+        "Credit",
+        "Small Business Finance"
+      ]
     },
     {
       "title": "8 Online Networking Groups for Business Owners",
       "url": "https://fundbox.com/blog/online-business-networking-groups/",
-      "tags": ["Networking", "Small Business"]
+      "tags": [
+        "Networking",
+        "Small Business"
+      ]
     },
     {
       "title": "4 Things to Consider When Choosing a Bank For Your Small Business",
       "url": "https://fundbox.com/blog/4-things-consider-choosing-bank-small-business/",
-      "tags": ["Banking", "Small Business Finance"]
+      "tags": [
+        "Banking",
+        "Small Business Finance"
+      ]
     },
     {
       "title": "How Small Businesses Are Using AI Technology to Grow",
       "url": "https://fundbox.com/blog/how-small-businesses-are-using-ai-technology-to-grow/",
-      "tags": ["AI", "Technology", "Small Business Growth"]
+      "tags": [
+        "AI",
+        "Technology",
+        "Small Business Growth"
+      ]
     },
     {
       "title": "How to choose an accountant: 5 tips for small businesses",
       "url": "https://fundbox.com/blog/how-to-choose-an-accountant-5-tips-for-small-businesses/",
-      "tags": ["Accounting", "Small Business"]
+      "tags": [
+        "Accounting",
+        "Small Business"
+      ]
     },
     {
       "title": "Loans for Minority-Owned Businesses: 10 Options to Consider",
       "url": "https://fundbox.com/blog/loans-minority-owned-businesses-10-options-consider/",
-      "tags": ["Loans", "Minority Business", "Finance"]
+      "tags": [
+        "Loans",
+        "Minority Business",
+        "Finance"
+      ]
     },
     {
       "title": "How Flux Accounting Used a Line of Credit to Quickly Hire Staff",
       "url": "https://fundbox.com/blog/accountants-hiring-credit/",
-      "tags": ["Credit", "Hiring", "Case Study"]
+      "tags": [
+        "Credit",
+        "Hiring",
+        "Case Study"
+      ]
     }
-  ]
+  ],
+  "repo": "fundbox",
+  "feeds": [
+    {
+      "source": "https://www.linkedin.com/company/fundbox/",
+      "feed_url": "https://www.linkedin.com/company/fundbox/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-06-14T20:42:17Z"
 }
