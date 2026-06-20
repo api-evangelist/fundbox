@@ -1,7 +1,7 @@
 aid: fundbox
 name: Fundbox
 description: Fundbox is an API-first embedded working capital platform that enables B2B sellers and platforms to offer net payment terms, credit underwriting, and working capital financing. Founded in 2013 and headquartered in Plano, TX, Fundbox has unlocked over $6 billion in capital for more than 170,000 small businesses. The platform provides a fully white-labeled, embedded lending API stack that allows B2B platforms to integrate credit decisioning, compliance, and servicing in two weeks or less.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/apis.yml
 created: 2026-06-13
 modified: 2026-06-13
@@ -19,7 +19,7 @@ apis:
   - aid: fundbox:fundbox-partner-api
     name: Fundbox Partner API
     description: The Fundbox Partner API provides an API stack for platforms to embed white-labeled net payment terms, credit underwriting, and working capital financing directly within their B2B applications. The API handles end-to-end embedded lending including credit decisioning, compliance, and loan servicing.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://fundbox.com/partners/
     baseURL: https://fundbox.com
     tags:
