@@ -37,6 +37,8 @@ apis:
       - type: FinOps
         url: https://raw.githubusercontent.com/api-evangelist/fundbox/refs/heads/main/finops/fundbox-finops.yml
 common:
+  - type: DomainSecurity
+    url: security/fundbox-domain-security.yml
   - type: Website
     url: https://fundbox.com
   - type: Documentation
