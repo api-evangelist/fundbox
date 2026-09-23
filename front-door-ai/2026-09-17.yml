@@ -1,0 +1,25 @@
+# Front Door AI Index — fundbox — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: fundbox
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: fundbox.com
+  final_host: fundbox.com
+  ownership: own
+  owner: fundbox
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 3
+  host_score: 3
+  density: 3.16
+  words: 950
+  tiers:
+    agentic: 0
+    core: 0
+    model: 3
+  ambiguous: 0
+  top_terms:
+    Llama: 3
