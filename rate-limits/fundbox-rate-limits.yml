@@ -1,3 +1,7 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (undated — the file carries no date and git cannot supply one), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
 name: Fundbox Rate Limits
 description: Rate limit details for the Fundbox Partner API. Fundbox's embedded lending API is available to approved platform partners. Specific rate limit thresholds are disclosed during the partner onboarding process.
 url: https://fundbox.com/partners/
