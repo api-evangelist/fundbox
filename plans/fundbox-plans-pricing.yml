@@ -39,3 +39,21 @@ notes:
   - Effective APRs can range from approximately 35% to 80% depending on term and credit profile
   - Platform API access requires partner agreement with Fundbox
   - Contact support@fundbox.com or (855) 572-7707 for partner pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units: []
+  plans:
+  - name: Business Line of Credit
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Embedded Net Terms (Platform Partners)
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
